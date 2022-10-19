@@ -96,7 +96,7 @@
 11. меблировка
 
 #### **SCRUM bord**
-<p align="center"><img src ="SD.png" /></p></br></br>
+<p align="center"><img src ="SD.png" /></p></br>
 
 #### SM:  
 На всём этапе проводит степдапы каждый день  
